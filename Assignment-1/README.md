@@ -23,6 +23,10 @@ In plain terms, it:
 All results are printed to the terminal, and the three charts are saved as
 `.png` files in the same folder.
 
+Run it with:
+```
+Assignment_1.py
+```
 
 ```
 uv init  
