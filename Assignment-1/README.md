@@ -25,7 +25,7 @@ All results are printed to the terminal, and the three charts are saved as
 
 Run it with:
 ```
-Assignment_1.py
+uv run Assignment_1.py
 ```
 
 ```
